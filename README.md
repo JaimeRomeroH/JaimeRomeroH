@@ -1,7 +1,7 @@
 # About_me{
  ## name: "Jaime", 
  ## last_name: "Romero",
- ## career: "computer stystems engineer",
+ ## career: "computer systems engineer",
  ## interest: "Software development"
 # };
 
