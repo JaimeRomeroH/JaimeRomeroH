@@ -1,9 +1,13 @@
-# About_me{
- ## name: "Jaime", 
- ## last_name: "Romero",
- ## career: "computer systems engineer",
- ## interest: "Software development"
-# };
+<div style="background-color:black;">
+   <p style="color:green;">
+    About_me{ <br>
+    name: "Jaime", <br> 
+    last_name: "Romero", <br>
+    career: "computer systems engineer", <br>
+    interest: "Software development" <br>
+    };
+   </p>
+</div>
 
 ```python
 hobbies = ["videogames", "music", "martial_arts"]
