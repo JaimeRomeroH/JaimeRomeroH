@@ -5,6 +5,16 @@
  ## interest: "Software development"
 # };
 
+```javascript
+const skills = {
+   frontEnd:["HTML", "CSS", "JAVASCRIPT", "ReactJS", "VUE"],
+   backEnd:["NodeJS"],
+   dataBase:["ORACLE"],
+   ESSENTIAL_KNOWLEDGE:["JAVA", "PYTHON", "C/C++", "SQL"],
+   tools:["Git", "VScode"]
+};
+```
+
 ```python
 hobbies = ["videogames", "music", "martial_arts"]
 ```
