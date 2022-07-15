@@ -1,5 +1,5 @@
-<div style="background-color:black;">
-   <p style="color:green;">
+<div style="background-color:blue;">
+   <p style="color:white;">
     About_me{ <br>
     name: "Jaime", <br> 
     last_name: "Romero", <br>
