@@ -7,11 +7,11 @@
 
 ```javascript
 const skills = {
-   frontEnd:["HTML", "CSS", "JAVASCRIPT", "ReactJS", "VUE"],
+   frontEnd:["HTML", "CSS", "JAVASCRIPT", "ReactJS", "VUE", "Angular"],
    backEnd:["NodeJS"],
-   dataBase:["ORACLE"],
-   ESSENTIAL_KNOWLEDGE:["JAVA", "PYTHON", "C/C++", "SQL"],
-   tools:["Git", "VScode"]
+   dataBase:["MySQL", "ORACLE"],
+   ESSENTIAL_KNOWLEDGE:["PHP", "JAVA", "PYTHON", "C/C++", "SQL"],
+   tools:["Git", "VScode", "Postman"]
 };
 ```
 
